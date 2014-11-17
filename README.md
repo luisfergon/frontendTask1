@@ -11,6 +11,7 @@ Fork this repository and solve all the bugs in the project, compare your work wi
 
 	eg. I clik on the return of the Jedi button -> only the description of the "Return of the Jedi" is visible
  
-4 - make it as responsive you can.
+4 - make it as responsive you can.  
+
 5 - write your own suggestions about how to make this task better . 
 
