@@ -1,17 +1,24 @@
-frontendTask1
-=============
+Instructions
+------------
 
-Fork this repository and solve all the bugs in the project, compare your work with the pictures in the expected folder.
+- Clone the repo
+- Write the solution according to the specifications
+- Create a pull request
 
-1 - Follow the instruction in the index page
+Specifications
+--------------
 
-2 - create two buttons to display film´s description
+Solve all the bugs in the project, compare your work with the pictures in the folder `expected`.
 
-3 - when I click on one button only the competent description is visible 
+1. Follow the instruction in the page `index.html`
+
+2. Create two buttons to display film´s description
+
+3. When I click on one button only the competent description is visible 
 
 	eg. I click on the return of the Jedi button -> only the description of the "Return of the Jedi" is visible
  
-4 - make it as responsive you can.  
+4. Make it as responsive you can
 
-5 - write your own suggestions about how to make this task better . 
+5. Write your own suggestions about how to make this task better
 
