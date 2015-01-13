@@ -2,23 +2,20 @@ Instructions
 ------------
 
 - Clone the repo
-- Write the solution according to the specifications
+- Write the solution according to the requirements
 - Create a pull request
 
-Specifications
---------------
+Requirements
+------------
 
-Solve all the bugs in the project, compare your work with the pictures in the folder `expected`.
+- Write the needed CSS / JS code to match the result PNGs stored in the ./expected/ folder. Try to be as accurate as possible.
+- The HTML provieded voluntarily contains errors that prevents it to be valid. Fix them.
+- The layout should show two buttons: one labeled "REVENGE OF THE SITH" and "RETURN OF THE JEDI". Clicking one should show the relative content div while hiding the other. Default shown should be "REVENGE OF THE SITH".
+- The layout is intended to be responsive: make it so that it would look nice on a smartphone, tablet and desktop display.
 
-1. Follow the instruction in the page `index.html`
+Bonus requirements
+==================
 
-2. Create two buttons to display film´s description
-
-3. When I click on one button only the competent description is visible 
-
-	eg. I click on the return of the Jedi button -> only the description of the "Return of the Jedi" is visible
- 
-4. Make it as responsive you can
-
-5. Write your own suggestions about how to make this task better
-
+- Use SASS and CoffeeScript preprocessors.
+- Use Grunt or Gulp Task runners to compile / minify / uglify scripts and move the to the ./public folder.
+- Include a small NodeJs server to run the page.
