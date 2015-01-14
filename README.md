@@ -18,4 +18,4 @@ Bonus requirements
 
 - Use SASS and CoffeeScript preprocessors.
 - Use Grunt or Gulp Task runners to compile / minify / uglify scripts and move the to the ./public folder.
-- Include a small NodeJs server to run the page.
+- Include a small Node.js server to run the page.
