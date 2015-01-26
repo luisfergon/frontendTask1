@@ -1,1 +1,78 @@
-edit me
+body {
+	margin: 0;
+	padding: 8px;
+	background-color: #fafafa;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	-webkit-text-size-adjust: 100%;
+	
+	.content-wrapper {
+		background-color: #eeeeee;
+		border-radius: 5px;
+		padding: 37px 0px;
+
+		.content-align {
+		width: 80%;
+		margin: 0 auto;
+
+		figure {
+			width: 100%;
+			margin: 0;
+
+			img {
+				width: 100%;
+			}
+		}
+
+		strong,
+		p {
+			color: #333;
+		}
+
+		strong {
+			font-size: 33px;
+			margin-bottom: 15px;
+			font-weight: bold;
+		}
+
+		p {
+			font-size: 20px;
+			margin-top: 10px;
+		}
+
+		.button-holder {
+			overflow: hidden;
+			margin: 7px 0px 25px 0px;
+
+			.btn {
+			display: block;
+			float: left;
+			background-color: #2f79ba;
+			font-size: 1.2em;
+			color: #fff;
+			margin: 0px 5px 5px 0px;
+			padding: 10px;
+			text-decoration: none;
+
+				&:hover {
+					background-color: #6dade6;
+				    -webkit-transition: background-color 1000ms linear;
+				    -moz-transition: background-color 1000ms linear;
+				    -o-transition: background-color 1000ms linear;
+				    -ms-transition: background-color 1000ms linear;
+				    transition: background-color 1000ms linear;
+				}
+			}
+		}
+
+		.description {
+			display: none;
+		}
+
+	}
+	}
+	
+
+
+
+}
